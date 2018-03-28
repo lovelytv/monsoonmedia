@@ -51,7 +51,7 @@
         ]
       },
       {
-        "title":"King Cricket",
+        "title":"Cric Buzz",
         "provider":"rss",
         "arguments":[
           "http://live-feeds.cricbuzz.com/CricbuzzFeed?format=xml"
@@ -169,7 +169,7 @@
         "title":"Categories By Team",
         "provider":"overview",
         "arguments":[
-          "overview.json"
+          "lovelytv.github.io/appconfig/overview.json"
         ]
       }
     ]
