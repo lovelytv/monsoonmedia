@@ -1,0 +1,316 @@
+
+[
+  {
+    "title":"Recent News",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"World News",
+        "provider":"wordpress",
+        "arguments":[
+          "paperdabba.com"
+        ]
+      },
+      {
+        "title":"World Cricket",
+        "provider":"wordpress",
+        "arguments":[
+          "battingwithbimal.com"
+        ]
+      },
+      {
+        "title":"Nepal Cricket",
+        "provider":"wordpress",
+        "arguments":[
+          "crickethimalaya.com"
+//          "security"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Live TV ABC",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Live TV ABC",
+        "provider":"stream",
+        "arguments":[
+          "http://178.32.255.199:1935/live/ptven/playlist.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Cricket News Feed",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Times Of India",
+        "provider":"rss",
+        "arguments":[
+          "https://timesofindia.indiatimes.com/rssfeeds/4719161.cms"
+        ]
+      },
+      {
+        "title":"King Cricket",
+        "provider":"rss",
+        "arguments":[
+          "https://www.kingcricket.co.uk/feed/"
+        ]
+      },
+      {
+        "title":"King Cricket",
+        "provider":"rss",
+        "arguments":[
+          "http://live-feeds.cricbuzz.com/CricbuzzFeed?format=xml"
+        ]
+      }
+    ]
+  },
+
+//  {
+//    "title":"Tumblr",
+//    "drawable":"",
+//    "submenu":"Social Media",
+//    "iap":false,
+//    "tabs":[
+//      {
+//        "title":"Tumblr",
+//        "provider":"tumblr",
+//        "arguments":[
+//          "ipl2018"
+//        ]
+//      }
+//    ]
+//  },
+//  {
+//    "title":"SoundCloud",
+//    "drawable":"",
+//    "submenu":"Social Media",
+//    "iap":false,
+//    "tabs":[
+//      {
+//        "title":"User",
+//        "provider":"soundcloud",
+//        "arguments":[
+//          "13568105", "user"
+//        ]
+//      },
+//      {
+//        "title":"Playlist",
+//        "provider":"soundcloud",
+//        "arguments":[
+//          "104226047", "playlist"
+//        ]
+//      }
+//    ]
+//  },
+  {
+    "title":"Youtube",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"IPL 2018",
+        "provider":"youtube",
+        "arguments":[
+          "PLKMb_3v_GIXnlEW_xTN8cheR6N4o19sH4",
+          "playlist"
+        ]
+      },
+      {
+        "title":"Live",
+        "provider":"youtube",
+        "arguments":[
+          "PL5IIPH_CXprW725ClXQGDAcArJvnXWizv",
+          "playlist"
+        ]
+      } ,
+      {
+        "title":"Super Fans",
+        "provider":"youtube",
+        "arguments":[
+          "UCISUX-jtA04ktQiknXYZwCw",
+          "channel"
+        ]
+      } ,
+      {
+        "title":"IPL Official",
+        "provider":"youtube",
+        "arguments":[
+          "UCVxNhz_5dtoUMY53X8thBtA",
+          "channel"
+        ]
+      }
+
+    ]
+  },
+  {
+    "title":"Twitter",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"IPL 2018",
+        "provider":"twitter",
+        "arguments":[
+          "?ipl"
+        ]
+      }, {
+        "title":"CHENNAI SUPER KINGS",
+        "provider":"twitter",
+        "arguments":[
+          "?chennai super kings"
+        ]
+      },
+      {
+        "title":"DELHI DAREDEVILS",
+        "provider":"twitter",
+        "arguments":[
+          "?delhi dare devils"
+        ]
+      },
+      {
+        "title":"KINGS XI PUNJAB",
+        "provider":"twitter",
+        "arguments":[
+          "?kings xi punjab"
+        ]
+      }, {
+        "title":"KOLKATA KNIGHT RIDERS",
+        "provider":"twitter",
+        "arguments":[
+          "?kolkata knight riders"
+        ]
+      }, {
+        "title":"MUMBAI INDIANS",
+        "provider":"twitter",
+        "arguments":[
+          "?mumbai indians"
+        ]
+      }, {
+        "title":"RAJASTHAN ROYALS",
+        "provider":"twitter",
+        "arguments":[
+          "?rajasthan royals"
+        ]
+      }, {
+        "title":"ROYAL CHALLENGERS BANGALORE",
+        "provider":"twitter",
+        "arguments":[
+          "?royal challengers banglore"
+        ]
+      }
+    ]
+  },
+//  {
+//    "title":"Instagram",
+//    "drawable":"",
+//    "submenu":"Social Media",
+//    "iap":false,
+//    "tabs":[
+//      {
+//        "title":"Instagram",
+//        "provider":"instagram",
+//        "arguments":[
+//          "2948597263"
+//        ]
+//      }
+//    ]
+//  },
+//  {
+//    "title":"Facebook",
+//    "drawable":"",
+//    "submenu":"Social Media",
+//    "iap":false,
+//    "tabs":[
+//      {
+//        "title":"Facebook",
+//        "provider":"facebook",
+//        "arguments":[
+//          "104958162837"
+//        ]
+//      }
+//    ]
+//  },
+//  {
+//    "title":"WebView",
+//    "drawable":"",
+//    "submenu":"Other",
+//    "iap":false,
+//    "tabs":[
+//      {
+//        "title":"WebView",
+//        "provider":"webview",
+//        "arguments":[
+//          "http://www.google.com"
+//        ]
+//      }
+//    ]
+//
+//  },
+  {
+    "title":"Categories By Team",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories By Team",
+        "provider":"overview",
+        "arguments":[
+          "overview.json"
+        ]
+      }
+    ]
+  },
+//  {
+//    "title":"Wordpress Other",
+//    "drawable":"",
+//    "submenu":"Other",
+//    "iap":false,
+//    "tabs":[
+//      {
+//        "title":"WP JSON & Disqus",
+//        "provider":"wordpress",
+//        "arguments":[
+//          "http://androidpolice.com",
+//          "",
+//          "http://androidpolice.disqus.com/;androidpolice;%d http://www.androidpolice.com/?p=%d"
+//        ]
+//      },
+//      {
+//        "title":"WP REST",
+//        "provider":"wordpress",
+//        "arguments":[
+//          "https://wordpress.org/news/wp-json/wp/v2/",
+//          ""
+//        ]
+//      }
+//    ]
+//  },
+  {
+    "title":"Setting",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
