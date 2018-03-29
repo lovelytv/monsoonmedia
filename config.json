@@ -1,7 +1,7 @@
 [
   {
     "title":"समाचार",
-    "drawable":"",
+    "drawable":"ic_heart",
     "submenu":"",
     "iap":false,
     "tabs":[
