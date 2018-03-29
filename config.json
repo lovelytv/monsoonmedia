@@ -18,12 +18,35 @@
           "www.monsoonmedianepal.com","अन्तराष्ट्रिय"
         ]
       },{
-      "title":"	अपराध",
+      "title":"अपराध",
         "provider":"wordpress",
         "arguments":[
           "www.monsoonmedianepal.com","अपराध"
         ]
+      },{
+      "title":"खेलकूद",
+        "provider":"wordpress",
+        "arguments":[
+          "www.monsoonmedianepal.com","खेलकूद"
+        ]
       }
+      ,{
+      "title":"भिडियो",
+        "provider":"wordpress",
+        "arguments":[
+          "www.monsoonmedianepal.com","भिडियो"
+        ]
+      }
+       ,{
+      "title":"राजनिति",
+        "provider":"wordpress",
+        "arguments":[
+          "www.monsoonmedianepal.com","राजनिति"
+        ]
+      }
+      
+     
+      
     ]
   },
   {
