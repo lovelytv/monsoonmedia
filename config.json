@@ -30,6 +30,21 @@
       }
     ]
   },
+    {
+    "title":"Live TV Comming Soon!",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Live TV",
+        "provider":"stream",
+        "arguments":[
+          "http://178.32.255.199:1935/live/ptven/playlist.m3u8"
+        ]
+      }
+    ]
+  },
   {
     "title":"Cricket News Feed",
     "drawable":"",
