@@ -6,69 +6,39 @@
     "iap":false,
     "tabs":[
       {
-        "title":"World News",
+        "title":"All News",
         "provider":"wordpress",
         "arguments":[
-          "paperdabba.com"
-        ]
-      },
-      {
-        "title":"World Cricket",
-        "provider":"wordpress",
-        "arguments":[
-          "battingwithbimal.com"
-        ]
-      },
-      {
-        "title":"Nepal Cricket",
-        "provider":"wordpress",
-        "arguments":[
-          "crickethimalaya.com"
-
-        ]
-      }
-    ]
-  },
-    {
-    "title":"Live TV Comming Soon!",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Live TV",
-        "provider":"stream",
-        "arguments":[
-          "http://178.32.255.199:1935/live/ptven/playlist.m3u8"
+          "monsoonmedianepal.com"
         ]
       }
     ]
   },
   {
-    "title":"Cricket News Feed",
+    "title":"Top News Feed",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Times Of India",
+        "title":"Online Khabar",
         "provider":"rss",
         "arguments":[
-          "https://timesofindia.indiatimes.com/rssfeeds/4719161.cms"
+          "https://www.onlinekhabar.com/feed"
         ]
       },
       {
-        "title":"K Cricket",
+        "title":"Seto Pati",
         "provider":"rss",
         "arguments":[
-          "https://www.kingcricket.co.uk/feed/"
+          "https://setopati.com/feed"
         ]
       },
       {
-        "title":"Cric Buzz",
+        "title":"Nagraik Dainik",
         "provider":"rss",
         "arguments":[
-          "http://live-feeds.cricbuzz.com/CricbuzzFeed?format=xml"
+          "http://archive.nagariknews.com/politics.feed"
         ]
       }
     ]
@@ -80,38 +50,29 @@
     "iap":false,
     "tabs":[
       {
-        "title":"IPL 2018",
+        "title":"Channel",
         "provider":"youtube",
         "arguments":[
-          "PLKMb_3v_GIXnlEW_xTN8cheR6N4o19sH4",
-          "playlist"
+          "UCAOhNvAXXAM5PQzaUVLCc0A",
+          "channel"
         ]
       },
       {
-        "title":"Live",
+        "title":"New Videos",
         "provider":"youtube",
         "arguments":[
-          "PL5IIPH_CXprW725ClXQGDAcArJvnXWizv",
+          "PLNyVvZ-V9kuv-g6Fecv7nannGNvrn57KG",
           "playlist"
         ]
       } ,
       {
-        "title":"Super Fans",
+        "title":"Songs",
         "provider":"youtube",
         "arguments":[
-          "UCISUX-jtA04ktQiknXYZwCw",
+          "PLNyVvZ-V9kuvM4fbeNWQ-V33yZdOlrrZL",
           "channel"
         ]
-      } ,
-      {
-        "title":"IPL Official",
-        "provider":"youtube",
-        "arguments":[
-          "UCVxNhz_5dtoUMY53X8thBtA",
-          "channel"
-        ]
-      }
-
+      } 
     ]
   },
   {
@@ -124,57 +85,13 @@
         "title":"IPL 2018",
         "provider":"twitter",
         "arguments":[
-          "?ipl"
-        ]
-      }, {
-        "title":"CHENNAI SUPER KINGS",
-        "provider":"twitter",
-        "arguments":[
-          "?chennai super kings"
-        ]
-      },
-      {
-        "title":"DELHI DAREDEVILS",
-        "provider":"twitter",
-        "arguments":[
-          "?delhi dare devils"
-        ]
-      },
-      {
-        "title":"KINGS XI PUNJAB",
-        "provider":"twitter",
-        "arguments":[
-          "?kings xi punjab"
-        ]
-      }, {
-        "title":"KOLKATA KNIGHT RIDERS",
-        "provider":"twitter",
-        "arguments":[
-          "?kolkata knight riders"
-        ]
-      }, {
-        "title":"MUMBAI INDIANS",
-        "provider":"twitter",
-        "arguments":[
-          "?mumbai indians"
-        ]
-      }, {
-        "title":"RAJASTHAN ROYALS",
-        "provider":"twitter",
-        "arguments":[
-          "?rajasthan royals"
-        ]
-      }, {
-        "title":"ROYAL CHALLENGERS BANGALORE",
-        "provider":"twitter",
-        "arguments":[
-          "?royal challengers banglore"
+          "DevrajBhantana"
         ]
       }
     ]
   },
   {
-    "title":"Categories By Team",
+    "title":"Other Videos",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -183,7 +100,7 @@
         "title":"Team Categories",
         "provider":"overview",
         "arguments":[
-          "https://lovelytv.github.io/appconfig/overview.json"
+          "https://lovelytv.github.io/monsoonmedia/overview.json"
         ]
       }
     ]
