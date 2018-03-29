@@ -6,7 +6,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"All News",
+        "title":"समाचार",
         "provider":"wordpress",
         "arguments":[
           "www.monsoonmedianepal.com"
