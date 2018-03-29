@@ -24,8 +24,8 @@
         "title":"Nepal Cricket",
         "provider":"wordpress",
         "arguments":[
-          "crickethimalaya.com",
-//          "security"
+          "crickethimalaya.com"
+
         ]
       }
     ]
