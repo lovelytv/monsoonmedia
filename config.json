@@ -1,6 +1,6 @@
 [
   {
-    "title":"Recent News",
+    "title":"समाचार",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -16,6 +16,13 @@
         "provider":"wordpress",
         "arguments":[
           "www.monsoonmedianepal.com","अन्तराष्ट्रिय"
+        ]
+      },
+      {
+      "title":"कला",
+        "provider":"wordpress",
+        "arguments":[
+          "www.monsoonmedianepal.com","कला"
         ]
       },{
       "title":"अपराध",
