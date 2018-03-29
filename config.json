@@ -24,7 +24,7 @@
         "title":"Nepal Cricket",
         "provider":"wordpress",
         "arguments":[
-          "crickethimalaya.com"
+          "crickethimalaya.com",
 //          "security"
         ]
       }
@@ -166,7 +166,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Categories By Team",
+        "title":"Team Categories",
         "provider":"overview",
         "arguments":[
           "lovelytv.github.io/appconfig/overview.json"
