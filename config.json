@@ -58,7 +58,7 @@
   },
   {
     "title":"Top News Feed",
-    "drawable":"",
+    "drawable":"ic_view_carousel",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -87,7 +87,7 @@
   },
   {
     "title":"Youtube",
-    "drawable":"",
+    "drawable":"ic_action_play",
     "submenu":"Social Media",
     "iap":false,
     "tabs":[
@@ -119,7 +119,7 @@
   },
   {
     "title":"Twitter",
-    "drawable":"",
+    "drawable":"ic_action_retweet",
     "submenu":"Social Media",
     "iap":false,
     "tabs":[
@@ -134,7 +134,7 @@
   },
   {
     "title":"Other Videos",
-    "drawable":"",
+    "drawable":"ic_radio_playing",
     "submenu":"",
     "iap":false,
     "tabs":[
