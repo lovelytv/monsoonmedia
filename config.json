@@ -150,7 +150,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.sherdle.universal.SettingsFragment", "fragment"
+          "com.sherdle.monsoonmedianepal.SettingsFragment", "fragment"
         ]
       }
     ]
