@@ -1,2 +1,2 @@
 # appconfig
-This is json for my app.
+This is json for my monsnmedia.
