@@ -9,7 +9,19 @@
         "title":"All News",
         "provider":"wordpress",
         "arguments":[
-          "monsoonmedianepal.com"
+          "www.monsoonmedianepal.com"
+        ]
+      },{
+        "title":"अन्तराष्ट्रिय",
+        "provider":"wordpress",
+        "arguments":[
+          "www.monsoonmedianepal.com","अन्तराष्ट्रिय"
+        ]
+      },{
+      "title":"	अपराध",
+        "provider":"wordpress",
+        "arguments":[
+          "www.monsoonmedianepal.com","अपराध"
         ]
       }
     ]
