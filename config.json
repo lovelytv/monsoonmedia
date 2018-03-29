@@ -183,7 +183,7 @@
         "title":"Team Categories",
         "provider":"overview",
         "arguments":[
-          "lovelytv.github.io/appconfig/overview.json"
+          "https://lovelytv.github.io/appconfig/overview.json"
         ]
       }
     ]
